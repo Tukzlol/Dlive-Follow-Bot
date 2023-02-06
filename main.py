@@ -39,7 +39,7 @@ def main():
       "extensions": {
         "persistedQuery": {
           "version": 1,
-          "sha256Hash": 'daf146d77e754b6b5a7acd945ff005ae028b33feaa3c79e04e71505190003a5d'
+          "sha256Hash": "daf146d77e754b6b5a7acd945ff005ae028b33feaa3c79e04e71505190003a5d"
         }
       }
     }
